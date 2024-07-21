@@ -10,7 +10,7 @@ Config.UseESXRPName = false
 Config.Debug = true
 
 Config.LogDiscord = true
-Config.LogWebhook = "https://discord.com/api/webhooks/1259176339995492486/jfEvTygc9wEjZzoqlczcEZ2zS-aNj3LVMPczPPT2A9QTTW5Gge6uiri0E53LbnQCkGDa"
+Config.LogWebhook = "Discord log URL"
 
 Config.CheckForUpdates = true
 Config.Version = '1.0'
